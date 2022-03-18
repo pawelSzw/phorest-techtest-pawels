@@ -1,4 +1,4 @@
-# To run project
+#To run project
 gradle build
 
 #Database used 
